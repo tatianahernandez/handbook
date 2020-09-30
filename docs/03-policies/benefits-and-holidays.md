@@ -17,7 +17,7 @@ CivicActions is considered closed on the following holidays:
 | Thanksgiving                  | Fourth Thursday in November and the following Friday |
 | Christmas                     | December 25th\*                                      |
 
-If a holiday falls on a the weekend, the US office observes on the preceeding Friday for Saturday holidays and the following Monday for Sunday holidays. 
+If a holiday falls on a the weekend, the US office observes on the preceeding Friday for Saturday holidays and the following Monday for Sunday holidays.
 
 Employees are not encouraged to work on these holidays. If you feel it's necessary to work on a holiday, hourly, non-exempt employees will be compensated at their normal hourly rate, and will receive overtime where appropriate.
 
@@ -33,10 +33,9 @@ Employees should follow the following procedure for providing notice of, schedul
 
 1. If you are working on an active project (internal or external), discuss the impact of your absence with your project manager & team (this is especially important if there is flexibility in your dates) to get coverage and understand project impact, except where the need is related to sick time that is **unforeseeable**.
 1. Email ca-schedule@civicactions.com requesting the time and explaining your plan for coverage as discussed with your PM & team, or simply providing notice where the need is related to sick time and is **unforeseeable**.
-1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved. 
-1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes. 
+1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved.
+1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes.
 1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/04-how-we-work/tools/harvest.md) for logging time off.
-
 
 ## Exempt Employees -- Time Off
 
