@@ -37,7 +37,7 @@ Employees should follow the following procedure for providing notice of, schedul
 1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes.
 1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/04-how-we-work/tools/harvest.md) for logging time off.
 
-## Exempt Employees -- Time Off
+## Exempt Employees – Time Off
 
 The following applies to all United States-based, FLSA exempt employees.
 In recognition of the professional environment in which we work, exempt CivicActions employees do not accrue sick days, vacation days, or any other form of time off in any fixed amount. Rather, an eligible employee who is absent from work as a result of appropriately scheduled and approved vacation, personal, or sick time, including for any reason covered by applicable paid sick leave requirements, is eligible for time off with pay under this policy.
@@ -45,7 +45,7 @@ Employees are encouraged to take a reasonable amount of time off as needed to fe
 
 Exempt employees do not accrue or carry over time off from year-to-year. Thus, time off will not be paid out upon termination.
 
-## Non-Exempt Employees -- Time Off
+## Non-Exempt Employees – Time Off
 
 The following applies to all United States-based, FLSA non-exempt employees.
 
@@ -138,7 +138,7 @@ When you have a technical issue with your home network, power and personal equip
 
 ### Slack Channels
 
-- You can go to the following Slack channels for support: #windows #osx #gnu-linux
+- You can go to the following Slack channels for support with your personal equipment: #windows #osx #gnu-linux
 
 ## Personal Leave of Absence
 
