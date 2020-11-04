@@ -31,7 +31,7 @@ For time off related to any sick leave that is **foreseeable**, employees should
 
 Employees should follow the following procedure for providing notice of, scheduling, and obtaining approval of paid time off:
 
-1. If you are working on an active project (internal or external), discuss the impact of your absence with your project manager & team to get coverage and clarify project impact. This is especially important if there is flexibility in your dates. This is not necessary if the need is related to sick time that is **unforeseeable**. 
+1. If you are working on an active project (internal or external), discuss the impact of your absence with your project manager & team to get coverage and clarify project impact. This is especially important if there is flexibility in your dates. This is not necessary if the need is related to sick time that is **unforeseeable**.
 1. Email <mailto:ca-schedule@civicactions.com> to request the time. Make sure to explain your plan for coverage as discussed with your PM & team. If you are providing notice where the need is related to sick time and is **unforeseeable**, there's no need to explain further.
 1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved.
 1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes.
