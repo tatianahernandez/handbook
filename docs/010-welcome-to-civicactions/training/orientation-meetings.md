@@ -44,16 +44,14 @@
 
 ### Time Tracking
 
-- Review account in [Harvest](../../050-how-we-work/tools/harvest.md) and start logging your time daily
+- Bookmark Unanet link https://civicactions.unanet.biz/civicactions/action/home and start logging your time daily
 
-- Read the [Harvest documentation](../../050-how-we-work/tools/harvest.md#logging-time) on logging time
-
-- Read the submitting [expenses process](../../050-how-we-work/tools/harvest.md#tracking-expenses)
+- Read the Unanet Training information https://knowledgecenter.unanet.com/display/kb/Timesheet+Training
 
 - Read the [expense policy](../../030-policies/expenses.md)
 
 - How to log onboarding time:
-  - Log your time in the CivicActions Harvest project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description
+  - Log your time in the CivicActions Unanet project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description
   - Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
 
 ### Communication Tools
