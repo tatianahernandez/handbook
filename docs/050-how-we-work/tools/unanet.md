@@ -19,9 +19,8 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 ### Logging Your Working Expectations
 
 - A full time employee is slotted for a 40 hour work week
-- Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for CivicActions-related meetings or comms, she should bill it all to the fixed price project. She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
-- Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
-- Time and Materials: 85-95% (34-38 hours / week)
+- Working on tasks that is directly advancing your project and the clients interests should be recorded as time worked on the contract.
+- All internals initiatives, such as All Humans Call, Workgroup Meetings and Pod Calls should be recorded as such.
 
 ### Jogging Your Memory
 
